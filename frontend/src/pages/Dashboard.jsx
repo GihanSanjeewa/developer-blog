@@ -1,1 +1,7 @@
-<h1>hello</h1>
+import React from 'react'
+
+export default function Dashboard() {
+  return (
+    <div>Dashboard</div>
+  )
+}
